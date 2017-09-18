@@ -1,3 +1,5 @@
+###Installation and Setting Up Expo Project
+
 1. Get the latest nodejs through here -> https://nodejs.org/en/
 
 2. Get Expo XDE for your computer -> https://expo.io/tools
