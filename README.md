@@ -10,15 +10,15 @@
    ESlint
    Babel
    
-   Whichever editor you are using, you might want to install babel plugin just in case there are compatiblity issues with the code.
+   Whichever editor you are using, you might want to install babel package in case there are compatiblity issues with the code.
 
 5. Stack Navigator will be used for the one-page stacking for the application.
    Open cmd and enter:
    npm install --save react-navigation
    
-[If your npm install does not work, cd to a folder or your desktop and enter the above command line. A "node-modules" folder will be created. Then copy the folder over into your designated project folder.]
+[If your npm install does not work, cd to a folder or your desktop and enter the above command line. A "node-modules" folder will be created. Then copy the folder over into your designated project folder (local installation).]
 
-6. I have also included a rating feature in the app.js. You will need the node_modules to display the rating features as well.
+6. I have also included a rating feature in the app.js. You will need the package to display the rating features as well.
    Open cmd and enter:
    npm install react-native-star-rating --save
    
