@@ -24,5 +24,7 @@
    
    when done, enter this next:
    npm install react-native-vector-icons --save
-   
-7. Restart Expo on your computer for the node_modules to be updated. When done, press the 'Share' button and use the Expo App on your phone to scan the QR code. 
+
+7. Download the files I have uploaded as a zip and extract them to the project folder you have created using Expo.
+
+8. Restart Expo on your computer for the node_modules to be updated. When done, press the 'Share' button and use the Expo App on your phone to scan the QR code. 
