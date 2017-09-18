@@ -27,4 +27,4 @@
 
 7. Download the files I have uploaded as a zip and extract them to the project folder you have created using Expo.
 
-8. Restart Expo on your computer for the node_modules to be updated. When done, press the 'Share' button and use the Expo App on your phone to scan the QR code. 
+8. Restart Expo on your computer for the packages to be updated. When done, press the 'Share' button and use the Expo App on your phone to scan the QR code. 
