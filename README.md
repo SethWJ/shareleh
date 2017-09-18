@@ -1,4 +1,4 @@
-###Installation and Setting Up Expo Project
+# Installation and Setting Up Expo Project
 
 1. Get the latest nodejs through here -> https://nodejs.org/en/
 
